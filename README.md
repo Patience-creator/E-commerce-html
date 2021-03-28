@@ -1,2 +1,2 @@
 # E-commerce-html
-An e-commerce website.
+A book website template.
